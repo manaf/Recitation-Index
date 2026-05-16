@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-16",
+  "updated": "2026-05-17",
   "source": "qul.tarteel.ai",
   "reciters": [
     {
@@ -13,18 +13,6 @@
       "segments_url_template": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/al-dosari/{surah}.json",
       "segments_url_fallback_template": "https://raw.githubusercontent.com/manaf/Recitations/main/al-dosari/{surah}.json",
       "qul_id": 961
-    },
-    {
-      "slug": "al-dussary-surah",
-      "name": "Yasser Ad-Dussary (Surah)",
-      "name_ar": "ياسر الدوسري (سورة)",
-      "format": "surah",
-      "has_word_segments": false,
-      "sample_audio_url": "https://download.quranicaudio.com/quran/yasser_ad-dussary//001.mp3",
-      "audio_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/al-dussary-surah/audio.json",
-      "audio_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/al-dussary-surah/audio.json",
-      "segments_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/al-dussary-surah/segments.json",
-      "segments_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/al-dussary-surah/segments.json"
     },
     {
       "slug": "al-shatri",
