@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "updated": "2026-05-16",
+  "source": "qul.tarteel.ai",
+  "reciters": [
+    {
+      "slug": "al-dosari",
+      "name": "Yasser Al-Dosari",
+      "name_ar": "ياسر الدوسري",
+      "format": "ayah",
+      "has_word_segments": true,
+      "sample_audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/001001.mp3",
+      "segments_url_template": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/al-dosari/{surah}.json",
+      "segments_url_fallback_template": "https://raw.githubusercontent.com/manaf/Recitations/main/al-dosari/{surah}.json",
+      "qul_id": 961
+    },
+    {
+      "slug": "al-dussary-surah",
+      "name": "Yasser Ad-Dussary (Surah)",
+      "name_ar": "ياسر الدوسري (سورة)",
+      "format": "surah",
+      "has_word_segments": false,
+      "sample_audio_url": "https://download.quranicaudio.com/quran/yasser_ad-dussary//001.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/al-dussary-surah/audio.json",
+      "audio_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/al-dussary-surah/audio.json",
+      "segments_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/al-dussary-surah/segments.json",
+      "segments_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/al-dussary-surah/segments.json"
+    },
+    {
+      "slug": "al-shatri",
+      "name": "Abu Bakr Al-Shatri",
+      "name_ar": "أبو بكر الشاطري",
+      "format": "ayah",
+      "has_word_segments": true,
+      "sample_audio_url": "https://audio-cdn.tarteel.ai/quran/abuBakrAlShatri/001001.mp3",
+      "segments_url_template": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/al-shatri/{surah}.json",
+      "segments_url_fallback_template": "https://raw.githubusercontent.com/manaf/Recitations/main/al-shatri/{surah}.json",
+      "qul_id": 952
+    },
+    {
+      "slug": "alafasy",
+      "name": "Mishary Rashid Al-Afasy",
+      "name_ar": "مشاري راشد العفاسي",
+      "format": "ayah",
+      "has_word_segments": true,
+      "sample_audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/001001.mp3",
+      "segments_url_template": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/alafasy/{surah}.json",
+      "segments_url_fallback_template": "https://raw.githubusercontent.com/manaf/Recitations/main/alafasy/{surah}.json",
+      "qul_id": 953
+    },
+    {
+      "slug": "bandar-baleela",
+      "name": "Bandar Baleela",
+      "name_ar": "بندر بليلة",
+      "format": "surah",
+      "has_word_segments": false,
+      "sample_audio_url": "https://download.quranicaudio.com/quran/bandar_baleela/complete//001.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/bandar-baleela/audio.json",
+      "audio_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/bandar-baleela/audio.json",
+      "segments_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/bandar-baleela/segments.json",
+      "segments_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/bandar-baleela/segments.json"
+    },
+    {
+      "slug": "husary",
+      "name": "Mahmoud Khalil Al-Husary",
+      "name_ar": "محمود خليل الحصري",
+      "format": "ayah",
+      "has_word_segments": true,
+      "sample_audio_url": "https://audio-cdn.tarteel.ai/quran/husary/001001.mp3",
+      "segments_url_template": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/husary/{surah}.json",
+      "segments_url_fallback_template": "https://raw.githubusercontent.com/manaf/Recitations/main/husary/{surah}.json",
+      "qul_id": 957
+    },
+    {
+      "slug": "minshawi",
+      "name": "Muhammad Siddiq Al-Minshawi",
+      "name_ar": "محمد صديق المنشاوي",
+      "format": "ayah",
+      "has_word_segments": true,
+      "sample_audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/001001.mp3",
+      "segments_url_template": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/minshawi/{surah}.json",
+      "segments_url_fallback_template": "https://raw.githubusercontent.com/manaf/Recitations/main/minshawi/{surah}.json",
+      "qul_id": 959
+    },
+    {
+      "slug": "minshawi-children",
+      "name": "Minshawi With Children",
+      "name_ar": "المنشاوي مع الأطفال",
+      "format": "surah",
+      "has_word_segments": false,
+      "sample_audio_url": "https://download.quranicaudio.com/qdc/siddiq_minshawi/kids_repeat/1.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/minshawi-children/audio.json",
+      "audio_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/minshawi-children/audio.json",
+      "segments_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/minshawi-children/segments.json",
+      "segments_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/minshawi-children/segments.json"
+    },
+    {
+      "slug": "muhammad-jibreel",
+      "name": "Muhammad Jibreel",
+      "name_ar": "محمد جبريل",
+      "format": "surah",
+      "has_word_segments": false,
+      "sample_audio_url": "https://download.quranicaudio.com/quran/muhammad_jibreel/complete//001.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/muhammad-jibreel/audio.json",
+      "audio_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/muhammad-jibreel/audio.json",
+      "segments_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/muhammad-jibreel/segments.json",
+      "segments_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/muhammad-jibreel/segments.json"
+    }
+  ]
+}
