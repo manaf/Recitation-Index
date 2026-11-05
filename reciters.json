@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-02",
+  "updated": "2026-11-05",
   "source": "qul.tarteel.ai",
   "reciters": [
     {
@@ -667,7 +667,7 @@
       "segments_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/minshawi-children/segments.json",
       "files": {
         "audio.json": "f2041d0f",
-        "segments.json": "f8cbf63b"
+        "segments.json": "eace05b8"
       }
     },
     {
