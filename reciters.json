@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "source": "qul.tarteel.ai",
   "reciters": [
     {
@@ -683,7 +683,7 @@
       "segments_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/muhammad-jibreel/segments.json",
       "files": {
         "audio.json": "7d0e1bf7",
-        "segments.json": "a509e017"
+        "segments.json": "8a9f4361"
       }
     }
   ]
