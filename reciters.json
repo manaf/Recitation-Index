@@ -1,18 +1,20 @@
 {
   "version": 1,
-  "updated": "2026-11-06",
+  "updated": "2026-11-21",
   "source": "qul.tarteel.ai",
   "reciters": [
     {
       "slug": "al-dosari",
       "name": "Yasser Al-Dosari",
       "name_ar": "ياسر الدوسري",
-      "format": "ayah",
+      "format": "surah",
       "has_word_segments": true,
-      "sample_audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/001001.mp3",
-      "segments_url_template": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/al-dosari/{surah}.json",
-      "segments_url_fallback_template": "https://raw.githubusercontent.com/manaf/Recitations/main/al-dosari/{surah}.json",
+      "sample_audio_url": "https://download.quranicaudio.com/quran/yasser_ad-dussary/001.mp3",
       "qul_id": 961,
+      "audio_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/al-dosari/audio.json",
+      "audio_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/al-dosari/audio.json",
+      "segments_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/al-dosari/segments.json",
+      "segments_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/al-dosari/segments.json",
       "files": {
         "1.json": "21784e96",
         "2.json": "bdf2a9a5",
@@ -127,19 +129,23 @@
         "111.json": "bd230625",
         "112.json": "3bcfc818",
         "113.json": "5992b986",
-        "114.json": "254ac573"
+        "114.json": "254ac573",
+        "audio.json": "2444b38a",
+        "segments.json": "bbc138b1"
       }
     },
     {
       "slug": "al-shatri",
       "name": "Abu Bakr Al-Shatri",
       "name_ar": "أبو بكر الشاطري",
-      "format": "ayah",
+      "format": "surah",
       "has_word_segments": true,
-      "sample_audio_url": "https://audio-cdn.tarteel.ai/quran/abuBakrAlShatri/001001.mp3",
-      "segments_url_template": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/al-shatri/{surah}.json",
-      "segments_url_fallback_template": "https://raw.githubusercontent.com/manaf/Recitations/main/al-shatri/{surah}.json",
+      "sample_audio_url": "https://download.quranicaudio.com/qdc/abu_bakr_shatri/murattal/1.mp3",
       "qul_id": 952,
+      "audio_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/al-shatri/audio.json",
+      "audio_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/al-shatri/audio.json",
+      "segments_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/al-shatri/segments.json",
+      "segments_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/al-shatri/segments.json",
       "files": {
         "1.json": "966566a0",
         "2.json": "b4fed389",
@@ -254,19 +260,23 @@
         "111.json": "ba5be380",
         "112.json": "9358a249",
         "113.json": "c76840ef",
-        "114.json": "293948e3"
+        "114.json": "293948e3",
+        "audio.json": "b783e4bf",
+        "segments.json": "a0bcb246"
       }
     },
     {
       "slug": "alafasy",
       "name": "Mishary Rashid Al-Afasy",
       "name_ar": "مشاري راشد العفاسي",
-      "format": "ayah",
+      "format": "surah",
       "has_word_segments": true,
-      "sample_audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/001001.mp3",
-      "segments_url_template": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/alafasy/{surah}.json",
-      "segments_url_fallback_template": "https://raw.githubusercontent.com/manaf/Recitations/main/alafasy/{surah}.json",
+      "sample_audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/1.mp3",
       "qul_id": 953,
+      "audio_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/alafasy/audio.json",
+      "audio_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/alafasy/audio.json",
+      "segments_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/alafasy/segments.json",
+      "segments_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/alafasy/segments.json",
       "files": {
         "1.json": "90d37c5c",
         "2.json": "93a53bfe",
@@ -381,7 +391,9 @@
         "111.json": "3d9516ba",
         "112.json": "77844ed3",
         "113.json": "8a322abe",
-        "114.json": "a0aacaa0"
+        "114.json": "a0aacaa0",
+        "audio.json": "bbb78898",
+        "segments.json": "367b8a51"
       }
     },
     {
@@ -531,12 +543,14 @@
       "slug": "minshawi",
       "name": "Muhammad Siddiq Al-Minshawi",
       "name_ar": "محمد صديق المنشاوي",
-      "format": "ayah",
+      "format": "surah",
       "has_word_segments": true,
-      "sample_audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/001001.mp3",
-      "segments_url_template": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/minshawi/{surah}.json",
-      "segments_url_fallback_template": "https://raw.githubusercontent.com/manaf/Recitations/main/minshawi/{surah}.json",
+      "sample_audio_url": "https://download.quranicaudio.com/qdc/siddiq_minshawi/murattal/1.mp3",
       "qul_id": 959,
+      "audio_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/minshawi/audio.json",
+      "audio_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/minshawi/audio.json",
+      "segments_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/minshawi/segments.json",
+      "segments_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/minshawi/segments.json",
       "files": {
         "1.json": "6ce1c501",
         "2.json": "307a10d2",
@@ -651,7 +665,9 @@
         "111.json": "7a0568ed",
         "112.json": "018bdc71",
         "113.json": "ef9f2957",
-        "114.json": "4ce0cf91"
+        "114.json": "4ce0cf91",
+        "audio.json": "8cef68ec",
+        "segments.json": "c4daeb13"
       }
     },
     {
