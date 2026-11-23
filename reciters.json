@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-21",
+  "updated": "2026-11-23",
   "source": "qul.tarteel.ai",
   "reciters": [
     {
@@ -700,6 +700,70 @@
       "files": {
         "audio.json": "7d0e1bf7",
         "segments.json": "8a9f4361"
+      }
+    },
+    {
+      "slug": "ahmad-al-ajmi",
+      "name": "Ahmad Al-Ajmi",
+      "name_ar": "أحمد بن علي العجمي",
+      "format": "surah",
+      "has_word_segments": false,
+      "sample_audio_url": "https://cdn.mp3quran.net/audio/ahmad-ajmi/r1/001.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/ahmad-al-ajmi/audio.json",
+      "audio_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/ahmad-al-ajmi/audio.json",
+      "segments_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/ahmad-al-ajmi/segments.json",
+      "segments_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/ahmad-al-ajmi/segments.json",
+      "files": {
+        "audio.json": "8ab08645",
+        "segments.json": "d60742af"
+      }
+    },
+    {
+      "slug": "ali-jaber",
+      "name": "Ali Jaber",
+      "name_ar": "علي جابر",
+      "format": "surah",
+      "has_word_segments": false,
+      "sample_audio_url": "https://cdn.mp3quran.net/audio/ali-jaber/r1/001.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/ali-jaber/audio.json",
+      "audio_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/ali-jaber/audio.json",
+      "segments_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/ali-jaber/segments.json",
+      "segments_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/ali-jaber/segments.json",
+      "files": {
+        "audio.json": "af175931",
+        "segments.json": "3270647b"
+      }
+    },
+    {
+      "slug": "raad-al-kurdi",
+      "name": "Raad Al-Kurdi",
+      "name_ar": "رعد محمد الكردي",
+      "format": "surah",
+      "has_word_segments": false,
+      "sample_audio_url": "https://cdn.mp3quran.net/audio/raad-kurdi/r1/001.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/raad-al-kurdi/audio.json",
+      "audio_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/raad-al-kurdi/audio.json",
+      "segments_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/raad-al-kurdi/segments.json",
+      "segments_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/raad-al-kurdi/segments.json",
+      "files": {
+        "audio.json": "29c58025",
+        "segments.json": "a5ebd064"
+      }
+    },
+    {
+      "slug": "ali-al-huthaifi",
+      "name": "Ali Al-Huthaifi",
+      "name_ar": "علي بن عبدالرحمن الحذيفي",
+      "format": "surah",
+      "has_word_segments": false,
+      "sample_audio_url": "https://cdn.mp3quran.net/audio/ali-hudhaifi/r1/001.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/ali-al-huthaifi/audio.json",
+      "audio_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/ali-al-huthaifi/audio.json",
+      "segments_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/ali-al-huthaifi/segments.json",
+      "segments_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/ali-al-huthaifi/segments.json",
+      "files": {
+        "audio.json": "502f70e6",
+        "segments.json": "17b62370"
       }
     }
   ]
