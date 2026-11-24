@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "source": "qul.tarteel.ai",
   "reciters": [
     {
@@ -601,6 +601,22 @@
         "114.json": "293948e3",
         "audio.json": "b783e4bf",
         "segments.json": "a0bcb246"
+      }
+    },
+    {
+      "slug": "badr-al-turki",
+      "name": "Badr Al-Turki",
+      "name_ar": "بدر التركي",
+      "format": "surah",
+      "has_word_segments": false,
+      "sample_audio_url": "https://download.quranicaudio.com/quran/badr_al_turki/mp3/001.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/badr-al-turki/audio.json",
+      "audio_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/badr-al-turki/audio.json",
+      "segments_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/badr-al-turki/segments.json",
+      "segments_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/badr-al-turki/segments.json",
+      "files": {
+        "audio.json": "c7bf9ce4",
+        "segments.json": "13429eec"
       }
     },
     {
