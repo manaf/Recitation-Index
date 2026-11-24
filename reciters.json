@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "source": "qul.tarteel.ai",
   "reciters": [
     {
@@ -764,6 +764,22 @@
       "files": {
         "audio.json": "502f70e6",
         "segments.json": "17b62370"
+      }
+    },
+    {
+      "slug": "ghamdi",
+      "name": "Saad Al-Ghamdi",
+      "name_ar": "سعد الغامدي",
+      "format": "surah",
+      "has_word_segments": true,
+      "sample_audio_url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete//001.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/ghamdi/audio.json",
+      "audio_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/ghamdi/audio.json",
+      "segments_url": "https://cdn.jsdelivr.net/gh/manaf/Recitations@main/ghamdi/segments.json",
+      "segments_url_fallback": "https://raw.githubusercontent.com/manaf/Recitations/main/ghamdi/segments.json",
+      "files": {
+        "audio.json": "f1442f3b",
+        "segments.json": "f2e547d4"
       }
     }
   ]
